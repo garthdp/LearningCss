@@ -1,0 +1,40 @@
+html {
+    font-size: 22px;
+}
+
+* {
+    font-family: monospace;
+}
+
+main {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    text-align: justify;
+}
+
+button, input, textarea, select {
+    font: inherit;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+p {
+    color: purple;
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
